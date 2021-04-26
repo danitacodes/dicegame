@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Lato:wght@300;400&display=swap');
+/*font-family: 'Abril Fatface', cursive;
+font-family: 'Lato', sans-serif;*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+   width: 70%;
+   margin: auto;
+   text-align: center; 
+}
+
+.player {
+   text-align: center;
+   display: inline-block;
+   font-family: 'Lato', sans-serif;
+}
+
+body {
+    background-color: #e5989b;
+}
+
+h1 {
+    margin:30px;
+    font-family: 'Abril Fatface', cursive;
+    font-size: 8rem;
+    color: #6d6875;
+}
+
+p {
+    font-size: 2rem;
+    color: #6d6875;
+    font-family: 'Lato', sans-serif;
+}
+
+img {
+    width: 80%;
+}
